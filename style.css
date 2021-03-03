@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+img {
+    margin: 5px;
+}
+
+
+#mycarousel {
+    background-color: paleturquoise;
+}
+
+#mycarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.container {
+    text-align: center;
+}
